@@ -1,4 +1,4 @@
-.ensimmäinen-boksi { width: 200px; height: 100px; background-color: red; position: absolute; left: 10px}
-.toinen-boksi { width: 200px; height: 100px; background-color: yellow; position: absolute; left: 260px}
-.kolmas-boksi { width: 200px; height: 100px; background-color: green; position: absolute; left: 510px}
-
+.ensimmäinen-boksi { width: 200px; height: 100px; background-color: red; position: absolute; left: 10px; border-style: solid; border-width: 10px; border-color: green; text-align: center; text-transform: uppercase; padding-top: 20px}
+.toinen-boksi { width: 200px; height: 100px; background-color: yellow; position: absolute; left: 260px; border-style: solid; border-width: 10px; border-color: red; text-align: center; text-transform: uppercase; padding-top: 20px}
+.kolmas-boksi { width: 200px; height: 100px; background-color: green; position: absolute; left: 510px; border-style: solid; border-width: 10px; border-color: yellow; text-align: center; text-transform: uppercase; padding-top: 20px}
+p { color: blue }
